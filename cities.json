@@ -1,0 +1,28 @@
+[{
+       "city": "New York",
+       "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/new-york-9cb6cc2ae5.jpg"
+   },{
+    "city": "Boston",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/boston-7399414b98.jpg"
+   },{
+    "city": "Los Angeles",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/los-angeles-f5b60deb04.jpg"
+   },{
+    "city": "Madrid",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/madrid-ee355b90b3.jpg"
+   },{
+    "city": "Paris",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/paris-0ae0bb626e.jpg"
+   },{
+    "city": "Londres",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/london-12fdfd9fcf.jpg"
+   },{
+    "city": "Barcelona",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/barcelona-aacdf7ba91.jpg"
+   },{
+    "city": "San Petersburgo",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/saint-petersburg-a33d8a3855.jpg"
+   },{
+    "city": "Tokio",
+    "imagen":"https://d13k13wj6adfdf.cloudfront.net/urban_areas/tokyo-5d21b97864.jpg"
+   }]
